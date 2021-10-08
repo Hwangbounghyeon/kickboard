@@ -1,4 +1,4 @@
-# predict_kickboard
+# predict_kickboard ddd
 
 [공공] 서울시 따릉이 자전거 이용 예측 AI모델  
 
